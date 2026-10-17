@@ -1,4 +1,4 @@
-![Code Coverage:](https://github.com/AidenBlack-OK/learn-cicd-typescript-starter/badge.svg)
+![Code Coverage:](https://github.com/AidenBlack-OK/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
